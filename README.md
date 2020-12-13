@@ -51,3 +51,5 @@ print("4. Mengubah function menggunakan lambda \n def d(s): \n \t return "".join
 print(" Hasil : d2 =lambda s: "".join(set(s))")
 
 ```
+* HASIL SOURCE CODE DI ATAS SEBAGAI BERIKUT
+![Gambar](PictureP10\Gambar1.PNG)
