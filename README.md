@@ -6,6 +6,7 @@ Dibuat untuk memenuhi tugas Bahasa Pemrograman pertemuan 10
 <br>Kelas       : TI.20.B.1
 <br>Mata Kuliah : Bahasa Pemrograman
 
+ # TUGAS LATIHAN
 ``` python
 def a(x):
     return x ** 2
