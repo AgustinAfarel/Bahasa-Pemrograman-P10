@@ -52,4 +52,4 @@ print(" Hasil : d2 =lambda s: "".join(set(s))")
 
 ```
 * HASIL SOURCE CODE DI ATAS SEBAGAI BERIKUT
-![Gambar](PictureP10\Gambar1.PNG)
+![Gambar](PictureP10/Gambar1.PNG)
